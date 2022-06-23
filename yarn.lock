@@ -341,10 +341,10 @@
   resolved "https://registry.yarnpkg.com/@shopify/polaris-tokens/-/polaris-tokens-5.2.1.tgz#d288c1551983a96d66e7165058a822004706e8f0"
   integrity sha512-xa+UussENiJ8TP6eCebf9pqoRmUg8tP9sWDGql8+2RujjiRcPNjgwDFvDM7e23FFqu4+aJdZqEFqUpQz0g8qcA==
 
-"@shopify/polaris@^9.14.1":
-  version "9.14.1"
-  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-9.14.1.tgz#01e906152dca1e15c8ffad7c3e1257742e63bf90"
-  integrity sha512-9QxCMRrrFcH/VAk6bMJGdFJZz+dzFN+pkkplVuIk6bj8yiW28Kw0w6lkYwwHS512e6+XqCEWTTKYUfdZeZyLlg==
+"@shopify/polaris@^9.19.0":
+  version "9.19.0"
+  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-9.19.0.tgz#e9534f4800977e70092c7519c2050e07c095152e"
+  integrity sha512-JW1jAGQ7Wf6IrYq8YzT2nVvXkSEbmk9kmSuCz1Wo5VhGRngWj8exzmROsw4ws0ExZ1aW0/JY8qpPETC8IBz11w==
   dependencies:
     "@shopify/polaris-icons" "*"
     "@shopify/polaris-tokens" "*"
